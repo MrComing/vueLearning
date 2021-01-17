@@ -1,7 +1,15 @@
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: jumper
+ * @Date: 2021-01-17 15:54:03
+ * @LastEditors: jumper
+ * @LastEditTime: 2021-01-17 16:33:50
+-->
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
+      <router-link to="/">Home1</router-link> |
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
