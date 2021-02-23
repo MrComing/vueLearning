@@ -4,7 +4,7 @@
  * @Author: jumper
  * @Date: 2021-01-17 15:54:03
  * @LastEditors: jumper
- * @LastEditTime: 2021-01-17 16:33:50
+ * @LastEditTime: 2021-02-19 11:28:11
 -->
 <template>
   <div id="app">
@@ -13,6 +13,8 @@
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
+    
+     
   </div>
 </template>
 
